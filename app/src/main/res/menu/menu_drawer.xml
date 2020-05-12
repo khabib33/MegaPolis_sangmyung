@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+
+        <group android:id="@+id/top_sub">
+            <item
+                android:id="@+id/nav_all"
+                android:icon="@drawable/ic_nav_all"
+                android:title="@string/title_nav_all" />
+
+            <item
+                android:id="@+id/nav_favorites"
+                android:icon="@drawable/ic_nav_fav"
+                android:title="@string/title_nav_fav"
+                app:actionLayout="@layout/menu_counter" />
+
+            <item
+                android:id="@+id/nav_news"
+                android:icon="@drawable/ic_nav_news"
+                android:title="@string/title_nav_news" />
+        </group>
+        <item
+            android:id="@+id/nav_featured"
+            android:icon="@drawable/ic_nav_featured"
+            android:title="@string/title_nav_featured" />
+        <item
+            android:id="@+id/nav_tour"
+            android:icon="@drawable/ic_nav_tour"
+            android:title="@string/title_nav_tour" />
+        <item
+            android:id="@+id/nav_food"
+            android:icon="@drawable/ic_nav_food"
+            android:title="@string/title_nav_food" />
+        <item
+            android:id="@+id/nav_hotels"
+            android:icon="@drawable/ic_nav_hotels"
+            android:title="@string/title_nav_hotels" />
+        <item
+            android:id="@+id/nav_ent"
+            android:icon="@drawable/ic_nav_ent"
+            android:title="@string/title_nav_ent" />
+        <item
+            android:id="@+id/nav_sport"
+            android:icon="@drawable/ic_nav_sport"
+            android:title="@string/title_nav_sport" />
+        <item
+            android:id="@+id/nav_shop"
+            android:icon="@drawable/ic_nav_shop"
+            android:title="@string/title_nav_shop" />
+        <item
+            android:id="@+id/nav_transport"
+            android:icon="@drawable/ic_nav_transport"
+            android:title="@string/title_nav_transport" />
+        <item
+            android:id="@+id/nav_religion"
+            android:icon="@drawable/ic_nav_religion"
+            android:title="@string/title_nav_religion" />
+        <item
+            android:id="@+id/nav_public"
+            android:icon="@drawable/ic_nav_public"
+            android:title="@string/title_nav_public" />
+        <item
+            android:id="@+id/nav_money"
+            android:icon="@drawable/ic_nav_money"
+            android:title="@string/title_nav_money" />
+    </group>
+    <!--Tourist Destination-->
+    <!--Food & Drink-->
+    <!--Hotels-->
+    <!--Entertainment-->
+    <!--Sport-->
+    <!--Shopping-->
+    <!--Transportation-->
+    <!--Religion-->
+    <!--Public Services-->
+    <!--Money-->
+
+</menu>

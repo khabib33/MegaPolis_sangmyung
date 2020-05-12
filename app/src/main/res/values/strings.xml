@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">MegaPolis</string>
+
+    <string name="city_name">Bandung</string>
+    <string name="city_address">Jawa Barat, Indonesia</string>
+    <string name="about_text">App display Interesting spot at City</string>
+
+    <!-- Replace with your more apps URL -->
+    <string name="more_app_url">http://portfolio.dream-space.web.id/</string>
+
+    <!--=== DATA FOR ADMOB ===================================================================== -->
+    <string name="publisher_id">pub-0000000000000000</string>
+    <string name="privacy_policy_url">
+        http://dream-space.web.id/
+    </string>
+
+    <!--Edit with your admob app id-->
+    <string name="admob_app_id">ca-app-pub-0000000000000000~0000000000</string>
+
+    <!--Replace with your own banner ad unit id. -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!--Replace with your own interstitial ad unit id. -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+
+
+    <!--=== GOOGLE API KEY STRING ============================================================== -->
+    <!-- API KEY FOR MAP -->
+    <string name="api_key">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</string>
+
+
+    <!--=== Nav Drawer Menu Items ============================================================== -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_nav_all">All Places</string>
+    <string name="title_nav_fav">Favorites</string>
+    <string name="title_nav_news">News Info</string>
+
+    <string name="title_nav_featured">Featured Places</string>
+    <string name="title_nav_tour">Tourist Destination</string>
+    <string name="title_nav_food">Food \u0026 Drink</string>
+    <string name="title_nav_hotels">Hotels</string>
+    <string name="title_nav_ent">Entertainment</string>
+    <string name="title_nav_sport">Sport</string>
+    <string name="title_nav_shop">Shopping</string>
+    <string name="title_nav_transport">Transportation</string>
+    <string name="title_nav_religion">Religion</string>
+    <string name="title_nav_public">Public Services</string>
+    <string name="title_nav_money">Money</string>
+
+    <!--=== activity FullScreenImage =========================================================== -->
+    <string name="image_of">%1$d of %2$d</string>
+
+    <!--=== activity Main ====================================================================== -->
+    <string name="press_again_exit_app">Press again to exit</string>
+
+    <!--=== activity Maps ====================================================================== -->
+    <string name="no_item_at">No Item at</string>
+    <string name="dialog_content_gps">
+        GPS is disabled in your device. Would you like to enable it?
+    </string>
+    <string name="activity_title_maps">@string/title_nav_all</string>
+
+    <!--=== activity PlaceDetails ============================================================== -->
+    <string name="add_favorite">added to favorites</string>
+    <string name="remove_favorite">remove from favorites</string>
+    <string name="no_phone_number">do not have a phone</string>
+    <string name="no_website">do not have a website</string>
+    <string name="fail_dial_number">Cannot dial phone number</string>
+    <string name="fail_open_website">Cannot open website</string>
+    <string name="unable_create_map">Sorry! unable to create maps</string>
+    <string name="failed_load_details">Failed load place details</string>
+    <string name="photos_title">Photos</string>
+    <string name="description_title">Description</string>
+    <string name="map_title">Map</string>
+    <string name="map_view">VIEW</string>
+    <string name="map_navigate">NAVIGATE</string>
+
+    <!--=== activity Search ==================================================================== -->
+    <string name="hint_search">Search Place...</string>
+    <string name="please_fill">Please fill search input</string>
+
+    <!--=== activity Setting =================================================================== -->
+    <string name="default_notification_channel_id">Default</string>
+    <string name="developer_name">Dream Space</string>
+    <string name="copyright">Copyright © 2016 Dream Space. \nAll right reserved</string>
+    <string name="pref_category_notif">Notifications</string>
+    <string name="pref_category_display">Display</string>
+    <string name="pref_category_other">Others</string>
+
+    <string name="pref_title_notif">Push Notifications</string>
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="pref_title_cache">Clear Image Cache</string>
+    <string name="pref_title_theme">Theme Color</string>
+    <string name="pref_title_more">More Apps</string>
+    <string name="pref_title_rate">Rate</string>
+    <string name="pref_title_about">About</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="pref_title_copyright">Copyright</string>
+    <string name="pref_title_dev_name">Developed By</string>
+    <string name="pref_title_term">Term &amp; Policies</string>
+
+    <string name="pref_key_notif">key_notifications</string>
+    <string name="pref_key_ringtone">key_ringtone</string>
+    <string name="pref_key_vibrate">key_vibrate</string>
+    <string name="pref_key_reset_cache">key_reset_cache</string>
+    <string name="pref_key_theme">key_theme</string>
+    <string name="dialog_confirm_title">Confirmation</string>
+    <string name="dialog_about_title">About</string>
+    <string name="activity_title_settings">Settings</string>
+
+    <string name="message_clear_image_cache">Are you sure want to clear image cache?</string>
+    <string name="message_after_clear_image_cache">Image cache successfully clear</string>
+    <string name="title_dialog_theme">Color Theme</string>
+    <string name="grant_permission_account_storage">Grant account, storage permission to enable</string>
+    <string name="content_term">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dolor risus, aliquet a erat quis, viverra molestie orci. Suspendisse vehicula porta libero. Nam tincidunt nulla ipsum, vel iaculis risus scelerisque sed. Phasellus venenatis, enim vel placerat blandit, leo eros bibendum erat, at auctor mauris diam ac risus. Aenean sit amet congue neque, sit amet condimentum elit. Fusce lacinia massa vel nisl scelerisque, in scelerisque dolor elementum. Vivamus leo enim, congue dictum congue vitae, porttitor id purus. Sed eu ultricies erat. Morbi hendrerit, mi ac volutpat commodo, magna turpis pretium nibh, at fringilla eros lorem quis tellus. Praesent porttitor purus nibh, ac vestibulum massa fringilla vel. Pellentesque dapibus nulla quis luctus dictum. In scelerisque ut ex sed facilisis. Nunc eu finibus nulla, ut hendrerit sem. Suspendisse accumsan risus vel diam fringilla iaculis.
+        \n\nQuisque facilisis finibus aliquam. Sed mattis, dui fringilla ornare finibus, orci odio blandit risus, ut maximus dui odio non leo. Donec laoreet lacus nisi, a mollis velit suscipit ac. Quisque faucibus ut nisl in congue. Nam sagittis consectetur tempus. Suspendisse eget posuere dui. Donec ultricies velit ex, vel cursus odio sollicitudin in. Nullam faucibus auctor ligula, eu rhoncus dui facilisis a. Curabitur vel feugiat est. Quisque congue at enim eleifend ultrices. Proin dapibus risus lorem, nec condimentum nunc consequat vitae. Quisque sapien lorem, vestibulum vitae justo eget, fringilla eleifend nisi.
+        \n\nMauris ultricies augue sit amet est sollicitudin laoreet. Fusce ut congue felis. Fusce dictum tristique elit nec iaculis. Mauris sodales tempus fringilla. Fusce nec nunc tempus, tempor sapien sit amet, ultricies erat. Mauris ultrices ac lorem ultrices facilisis. Nam pharetra, nisi a imperdiet interdum, nunc justo ultricies nisl, a laoreet massa dui vel enim. Pellentesque et magna ac tellus ullamcorper malesuada a ac nisl. Curabitur id est et neque convallis accumsan. Aliquam eleifend varius massa. Curabitur eu finibus tortor.
+        \n\nVivamus aliquam nisl rutrum orci volutpat porta in ornare est. Quisque ligula ipsum, vulputate id aliquam vitae, semper vitae orci. Nam non pulvinar ligula, eget tincidunt ante. Quisque sapien massa, varius tempus pretium id, vehicula at magna. Ut ut ultrices augue. Nam nec ullamcorper tellus, at finibus lectus. Fusce vel iaculis mauris, id porta nulla. Aenean ac mollis sapien. Morbi imperdiet augue tempus nulla luctus, sit amet feugiat purus elementum.
+    </string>
+
+
+    <!--=== activity Splash ==================================================================== -->
+    <string name="splash_welcome_text">WELCOME</string>
+    <string name="splash_desc_text">Browse all the interesting place using MegaPolis app</string>
+
+    <!--=== fragment Category ================================================================== -->
+    <string name="refresh_failed">Refresh failed</string>
+    <string name="load_of">Load %1$d of %2$d</string>
+    <string name="load_success">Successfully load data</string>
+
+
+    <!-- ==================== OTHERS STRING ==================================================== -->
+    <string name="action_settings">Settings</string>
+    <string name="no_internet">"No internet connection"</string>
+    <string name="task_running">Task still running</string>
+    <string name="no_item">No Item</string>
+
+    <!--Basic action Text-->
+    <string name="OK">OK</string>
+    <string name="YES">YES</string>
+    <string name="NO">NO</string>
+    <string name="SETTING">SETTING</string>
+    <string name="CANCEL">CANCEL</string>
+    <string name="SAVE">SAVE</string>
+    <string name="DISMISS">DISMISS</string>
+    <string name="HIDE">HIDE</string>
+    <string name="RETRY">RETRY</string>
+    <string name="DETAILS">DETAILS</string>
+    <string name="FAILED">FAILED</string>
+
+
+</resources>

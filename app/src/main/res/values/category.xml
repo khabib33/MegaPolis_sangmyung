@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--this id_category must be same with id_category server database-->
+    <!--<item>cat_id same with server database value</item> -->
+    <integer-array name="id_category">
+        <item>1</item> <!--TOURIST_DESTINATION-->
+        <item>2</item> <!--FOOD_DRINK-->
+        <item>3</item> <!--HOTELS-->
+        <item>4</item> <!--ENTERTAINMENT-->
+        <item>5</item> <!--SPORT-->
+
+        <item>6</item> <!--SHOPPING-->
+        <item>7</item> <!--TRANSPORTATION-->
+        <item>8</item> <!--RELIGION-->
+        <item>9</item> <!--PUBLIC_SERVICES-->
+        <item>10</item> <!--MONEY-->
+
+        <item>11</item> <!--FEATURED-->
+    </integer-array>
+
+    <string-array name="category_name">
+        <item>Tourist Destination</item>
+        <item>Food \u0026 Drink</item>
+        <item>Hotels</item>
+        <item>Entertainment</item>
+        <item>Sport</item>
+
+        <item>Shopping</item>
+        <item>Transportation</item>
+        <item>Religion</item>
+        <item>Public Services</item>
+        <item>Money</item>
+
+        <item>Featured Places</item>
+    </string-array>
+
+    <integer-array name="category_icon">
+        <item>@drawable/ic_nav_tour</item>
+        <item>@drawable/ic_nav_food</item>
+        <item>@drawable/ic_nav_hotels</item>
+        <item>@drawable/ic_nav_ent</item>
+        <item>@drawable/ic_nav_sport</item>
+
+        <item>@drawable/ic_nav_shop</item>
+        <item>@drawable/ic_nav_transport</item>
+        <item>@drawable/ic_nav_religion</item>
+        <item>@drawable/ic_nav_public</item>
+        <item>@drawable/ic_nav_money</item>
+
+        <item>@drawable/ic_nav_featured</item>
+    </integer-array>
+
+
+</resources>

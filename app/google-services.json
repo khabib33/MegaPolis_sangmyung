@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "887299084262",
+    "firebase_url": "https://thecity-1a837.firebaseio.com",
+    "project_id": "thecity-1a837",
+    "storage_bucket": "thecity-1a837.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887299084262:android:80c879c00d24c3f8209027",
+        "android_client_info": {
+          "package_name": "com.app.thecity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887299084262-o7do8j400sp8qdbad8dk7harr8f82pin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhB5XTD2500kKELMdLCxX1EVfqLXOJBoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887299084262-o7do8j400sp8qdbad8dk7harr8f82pin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
